@@ -102,10 +102,9 @@ def all_holidays_with_bbq(holiday_hash)
          arr.push(h)
   
         end
-  #binding.pry
       end
-      binding.pry
      end
+     arr
 end
 
 
